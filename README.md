@@ -23,7 +23,7 @@ I am currently completing a Master of Business Administration (MBA) at Walden Un
 | [Network Incident Report Template](https://github.com/jkdgod/network-incident-report-template) | A reusable Markdown incident-report template, public-release safeguards, and a fictional sanitized example |
 | [CSV Quality Checker](https://github.com/jkdgod/csv-quality-checker) | A dependency-free Python CLI for checking CSV structure, duplicates, missing values, and required columns using synthetic data |
 | [Technical Documentation Toolkit](https://github.com/jkdgod/technical-documentation-toolkit) | Reusable public-safe templates for SOPs, knowledge articles, change records, handoffs, and documentation review |
-| Maintenance Trend Analysis | Next project: a synthetic-data operational-analysis project with a concise executive summary |
+| [Maintenance Trend Analysis](https://github.com/jkdgod/maintenance-trend-analysis) | A synthetic-data Python analysis that turns maintenance events into reliability trends, an executive summary, and improvement recommendations |
 
 ## Working principles
 
